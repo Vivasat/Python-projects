@@ -1,0 +1,9 @@
+#1. Create a greeting for your program.
+print("Hello " + input("what is your name? ") + ", welcome to the team name generator!")
+#2. Ask the user for the city that they grew up in.
+a = input("What is the name of your city/town?")
+#3. Ask the user for the name of favourite animal.
+b = input("Which is your favourite animal?")
+#4. Combine the name of their city and pet and show them their band name.
+print(a+ " " +b)
+#Execute
